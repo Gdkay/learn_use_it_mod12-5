@@ -1,0 +1,12 @@
+# git init
+# git add . or git add XYZ.html
+# git commit -m  "your message"
+# git status
+# git log(hit 'q' to exit)
+#git checkout (commit id)
+
+GIT REMOTE COMMANDS
+# git remote add origin(http or url)
+# git remote -v
+# git push origin master
+# git pull origin master
